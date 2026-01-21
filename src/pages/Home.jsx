@@ -1,3 +1,4 @@
+import React from "react";
 import Layout from "../components/Layout";
 
 export default function Home() {
@@ -5,8 +6,8 @@ export default function Home() {
     <Layout>
       <h1>Bem-vindo ao Projeto YouX</h1>
       <p>
-        Este projeto foi desenvolvido para apoiar planejamento,
-        acompanhamento e retrospectivas.
+        Este projeto foi desenvolvido para apoiar planejamento, acompanhamento e
+        retrospectivas.
       </p>
     </Layout>
   );
